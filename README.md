@@ -1,1 +1,0 @@
-# Practice-questions-for-session-1
