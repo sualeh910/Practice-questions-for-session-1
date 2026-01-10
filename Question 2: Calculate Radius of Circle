@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class CircleCalculation {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int radius;
+        int pi = 3;
+
+        System.out.print("Enter radius of the circle: ");
+        radius = sc.nextInt();
+
+        int circumference = 2 * pi * radius;
+        int area = pi * radius * radius;
+
+        System.out.println("Circumference of the circle: " + circumference);
+        System.out.println("Area of the circle: " + area);
+    }
+}
+
