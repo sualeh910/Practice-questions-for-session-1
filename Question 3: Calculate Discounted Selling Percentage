@@ -7,7 +7,8 @@ public class SellingPrice {
         int price;
         int discount;
         int result;
-
+        
+        System.out.println("Calculate discounted selling price: ");
         System.out.print("Enter original selling price: ");
         price = sc.nextInt();
 
@@ -19,4 +20,3 @@ public class SellingPrice {
         System.out.println("Discounted selling price: " + result);
     }
 }
-
