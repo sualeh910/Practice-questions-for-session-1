@@ -4,9 +4,7 @@ public class PercentageCalculator {
      public static void main(String[] args) 
      {        
       System.out.println("Calculate percentage of high school graduates");
-
       Scanner sc = new Scanner(System.in);
-
       System.out.print("Enter your maximum marks :" );
       int maximum_marks = sc.nextInt() ;
 
