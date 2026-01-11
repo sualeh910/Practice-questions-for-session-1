@@ -9,7 +9,7 @@ public class TrapezoidAreaCalc {
         int h;
         int area;
         
-        System.out.println("Calculate the area of trapezoid ");
+        System.out.println("Calculate the Area of Trapezoid ");
         System.out.print("Enter length of first parallel side: ");
         a = sc.nextInt();
 
