@@ -6,7 +6,7 @@ public class CircleCalculation {
 
         int radius;
         int pi = 3;
-
+        System.out.println("Calculate Area and Circumference of Circle");
         System.out.print("Enter radius of the circle: ");
         radius = sc.nextInt();
 
@@ -17,4 +17,3 @@ public class CircleCalculation {
         System.out.println("Area of the circle: " + area);
     }
 }
-
