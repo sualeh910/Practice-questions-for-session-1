@@ -24,4 +24,3 @@ public class TrapezoidAreaCalc {
         System.out.println("Area of trapezoid: " + area);
     }
 }
-
